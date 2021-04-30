@@ -1,0 +1,44 @@
+body{
+  background-image:url(https://i2.ruliweb.com/img/20/11/02/17584a4315c3637.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3 {
+  color:#DC143C;
+  text-align: center;
+}
+
+h2 {
+  color:	#00BFFF;
+   text-align: center;
+}
+
+header　{
+  
+  font-weight:bold;
+  
+}
+slide-text {
+
+  font-weight:bold;
+  
+
+}
+
+.slider-wrap{
+  max-width: 500px ;
+  margin: 0 auto ;
+}
+
+.slider-contents > img{
+  width: 100%;
+}
+
+.slick-prev:before {
+  color: red !important;
+ 
+}
+.slick-next:before {
+  color: red !important;
+
+}
